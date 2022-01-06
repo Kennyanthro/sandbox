@@ -7,9 +7,9 @@ authors:
   - family-names: Fortunato
     given-names: Laura
     orcid: https://orcid.org/0000-0001-8546-9497
-title: Kennyanthro/sandbox: Data, code, and materials for paper The palio of Siena and the contemporary contrada system
+title: Data, code, and materials for paper The palio of Siena and the contemporary contrada system
 version: v1.0
-date-released: 2022-01-07
+date-released: "2022-01-07"
 identifiers:
   - description: This is the collection of archived snapshots of all versions of  the data, code, and materials
     type: doi
